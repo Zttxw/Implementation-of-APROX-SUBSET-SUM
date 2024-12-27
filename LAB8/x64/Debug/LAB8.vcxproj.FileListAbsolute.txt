@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\LAB8\LAB8\x64\Debug\LAB8.vcxproj.AssemblyReference.cache
+C:\Users\HP\source\repos\LAB8\LAB8\x64\Debug\LAB8.MyForm.resources
+C:\Users\HP\source\repos\LAB8\LAB8\x64\Debug\LAB8.vcxproj.GenerateResource.cache
+C:\Users\HP\source\repos\LABORATORIO - N°8\LAB8\LAB8\x64\Debug\LAB8.vcxproj.AssemblyReference.cache
+C:\Users\HP\source\repos\LABORATORIO - N°8\LAB8\LAB8\x64\Debug\LAB8.MyForm.resources
+C:\Users\HP\source\repos\LABORATORIO - N°8\LAB8\LAB8\x64\Debug\LAB8.vcxproj.GenerateResource.cache
